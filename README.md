@@ -41,6 +41,22 @@ This website is build based on Flask web framework as back end , MySQL as the da
 
 ![alt text](resource/WebsiteDemo.gif "Demo of my website")
 
+## Telegram Chatbot
+
+I host a custom Telegram bot in my Pi under my name “Thiyraash ” and I able to
+communicate with my Pi by sending them messages and commands. The message that I send to
+my Pi’s bot using my Telegram smartphone application will first go to the Telegram Server then
+to the Telegram bot hosted in my Pi. The Pi will interpret the message and do the appropriate
+action based on the message
+
+![alt text](resource/TelegramChat "Telegram chatbot")
+
+### Demo of Telegram chatbot
+![alt text](resource/TelegramChatBot.gif "Demo of my Telegram chatbot")
+
+
+
+
 
 
 
