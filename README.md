@@ -39,7 +39,7 @@ This website is build based on Flask web framework as back end , MySQL as the da
 
 ### Demo of website
 
-![alt text](resource/WebsiteDemo.flv "Telegram chat info page of my website")
+![alt text](resource/WebsiteDemo.gif "Demo of my website")
 
 
 
