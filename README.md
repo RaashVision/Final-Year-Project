@@ -49,7 +49,7 @@ my Pi’s bot using my Telegram smartphone application will first go to the Tele
 to the Telegram bot hosted in my Pi. The Pi will interpret the message and do the appropriate
 action based on the message
 
-![alt text](resource/TelegramChat "Telegram chatbot")
+![alt text](resource/TelegramChat.JPG "Telegram chatbot")
 
 ### Demo of Telegram chatbot
 ![alt text](resource/TelegramChatBot.gif "Demo of my Telegram chatbot")
